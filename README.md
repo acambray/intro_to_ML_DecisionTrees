@@ -2,11 +2,13 @@
 
 ## 1. TREE BUILDING/LEARNING
 ### Functions to be implemented:
-- DECISION_TREE_LEARNING()   [DONE]
-- FIND_SPLIT()               [DONE]
-- is_leaf()                  [DONE]
-- split_dataset()            [NOT DONE]
-- infoGain()                 [NOT DONE]
+Function  | Status
+------------- | -------------
+DECISION_TREE_LEARNING( )  | [DONE]
+FIND_SPLIT( )  | [DONE]
+is_leaf( ) | [DONE]
+split_dataset( ) | [NOT DONE]
+infoGain() | [NOT DONE]
 
 ### Function call hierarchy:
 * DECISION_TREE_LEARNING( )
