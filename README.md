@@ -4,11 +4,11 @@
 ### Functions to be implemented:
 Function  | Status
 ------------- | -------------
-DECISION_TREE_LEARNING( )  | [DONE]
-FIND_SPLIT( )  | [DONE]
-is_leaf( ) | [DONE]
-split_dataset( ) | [NOT DONE]
-infoGain() | [NOT DONE]
+DECISION_TREE_LEARNING( )  | &#9745;
+FIND_SPLIT( )  | &#9745;
+is_leaf( ) | &#9745;
+split_dataset( ) | &#9744;
+infoGain() | &#9744;
 
 ### Function call hierarchy:
 * DECISION_TREE_LEARNING( )
